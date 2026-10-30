@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://youtu.be/azd2H0Riid4">
+    <img src="https://img.youtube.com/vi/azd2H0Riid4/0.jpg" alt="Baidu's New AI Beats Google at 300-Page OCR on 2GB GPU! (Unlimited OCR 2 Review)">
+  </a>
+  <h3>📺 <a href="https://youtu.be/azd2H0Riid4">Watch the full video walkthrough on YouTube</a></h3>
+</div>
+
 # Baidu Unlimited OCR 2: 3B MoE Ultra-Long Document Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
